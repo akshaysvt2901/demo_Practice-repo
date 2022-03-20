@@ -1,3 +1,3 @@
 # Demo
 
-practing GIT and understanding concepts
+practing GIT and understanding concepts!
